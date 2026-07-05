@@ -1,5 +1,7 @@
 # Тестирование веб-приложения DemoQA
 
+![UI-тесты](https://github.com/kemaevak/-DemoQA-CI/actions/workflows/tests.yml/badge.svg)
+
 Учебный QA-проект: полный цикл тестирования сайта
 [demoqa.com](https://demoqa.com) — от тест-плана и ручного прохождения
 кейсов до автотестов на Playwright и запуска в CI.
